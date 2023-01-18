@@ -26,8 +26,8 @@ https://www.hankyung.com/economy/article/2021080892721
 - 팀구매 소셜커머스 앱, 함께 주문 서비스 등 대량으로 사면 싼 물건을 함께 구입하는 서비스는 기존에 많이 존재하지만, 소상공인들의 협업에 초점을 맞추고 관리해주는 서비스는 부재했습니다. 
 
 * 참고자료
-  당근마켓 ’공동구매’
+ 당근마켓 ’공동구매’
 https://www.asiae.co.kr/article/2022071909423399605
 
-  공동구매 앱 ‘올웨이즈’ 
+ 공동구매 앱 ‘올웨이즈’ 
 https://yozm.wishket.com/magazine/detail/1464/
