@@ -6,6 +6,7 @@
 이를 해결하기 위해서, 한 지역 안에서만 국한되지 않고 전국에 위치한 동종업계 가게들과 협업할 수 있게 하는 서비스를 생각했습니다.
 
 * 참고자료
+
 https://www.sedaily.com/NewsView/22M7TW6O5Z
 
 https://www.kita.net/cmmrcInfo/cmmrcNews/cmmrcNews/cmmrcNewsDetail.do?pageIndex=1&sSiteid=1&nIndex=%2064442
@@ -20,12 +21,14 @@ https://www.kita.net/cmmrcInfo/cmmrcNews/cmmrcNews/cmmrcNewsDetail.do?pageIndex=
 나아가 소상공인들의 커뮤니티 활성화와 제품 경쟁력 강화 등의 부가적인 효과를 기대할 수 있습니다.
 
 * 참고자료
+
 https://www.hankyung.com/economy/article/2021080892721
 
 ## 3. 해당 사회문제에 대해서 이미 존재하는 솔루션
 - 팀구매 소셜커머스 앱, 함께 주문 서비스 등 대량으로 사면 싼 물건을 함께 구입하는 서비스는 기존에 많이 존재하지만, 소상공인들의 협업에 초점을 맞추고 관리해주는 서비스는 부재했습니다. 
 
 * 참고자료
+
  당근마켓 ’공동구매’
 https://www.asiae.co.kr/article/2022071909423399605
 
