@@ -1,0 +1,4 @@
+# Sketch : 브레인스토밍을 통한 아이디어 구체화하기
+Sketch는 다양한 아이디어를 제시하며, 최종적으로 한 주제에 대한 구체적인 구상을 진행하는 단계입니다.
+## 해결하려고 하는 사회 문제에 대한 해결책 브레인 스토밍
+![KakaoTalk_Photo_2023-01-19-19-47-55](https://user-images.githubusercontent.com/89639470/213422991-d06d427c-a4e6-490b-ad25-82dbbe9a1a92.jpeg)
